@@ -1,0 +1,1 @@
+<dict><key>#DeviceProperties</key><dict><key>PciRoot(0x0)</key><dict><key>Label</key><data></data></dict></dict><key>#HexProperties</key><string></string><key>Preferences</key><dict><key>Debug</key><false/><key>HookLoadImage</key><true/><key>Off</key><false/><key>SaveLogToFile</key><true/><key>SaveLogToDeviceTree</key><false/><key>SaveLogToNvram</key><false/></dict></dict>
